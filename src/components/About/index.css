@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.dark-about {
+  color: white;
+  font-size: 40px;
+}
+.light-about {
+  color: #171f46;
+  font-size: 40px;
+}
+
+.about-image {
+  height: 150px;
+}
+
+.about-dark-con {
+  background-color: #000000;
+  height: 100vh;
+}
+.about-light-con {
+  background-color: white;
+  height: 100vh;
+}
+
+.about-con {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

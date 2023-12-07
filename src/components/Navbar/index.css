@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.light-theme {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  padding: 10px;
+}
+
+.linking-comp {
+  display: flex;
+  flex-direction: row;
+}
+
+.link-head {
+  font-size: 14px;
+  margin: 10px;
+}
+
+.website-logo {
+  height: 50px;
+}
+
+.theme {
+  height: 40px;
+}
+.dark-theme {
+  padding: 10px;
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.dark-theme-link {
+  font-size: 14px;
+  margin: 10px;
+  color: white;
+}
+
+.light-theme-link {
+  font-size: 14px;
+  margin: 10px;
+  color: #171f46;
+}
+
+.link {
+  text-decoration: none;
+}
